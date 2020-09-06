@@ -1,4 +1,4 @@
-# Chinese-Text-Analytics
+# chinese sentiment analysis
 
 Sentiment analysis of chinese text using LSTM neural net implemented in Pytorch
 
